@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config>
-    <config_item date="February 2009">
+    <item date="January 2009">
+        <mode>1</mode>
+        <unit>900</unit>
+        <current>1</current>
+        <interactive>1</interactive>
+    </item>
+    <item date="February 2009">
         <mode>2</mode>
         <unit>400</unit>
         <current>2</current>
         <interactive>5</interactive>
-    </config_item>
-    <config_item date="December 2009">
+    </item>
+    <item date="December 2009">
         <mode>9</mode>
         <unit>5</unit>
         <current>100</current>
         <interactive>3</interactive>
-    </config_item>
+    </item>
 </config>
